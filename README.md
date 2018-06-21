@@ -1,4 +1,5 @@
-==Snep change all the peers passwords==
+Snep change all the peers password
+-----------------------------------
 
 It's a simple script to change all the SNEP peers (Ramais) passwrods.
 
